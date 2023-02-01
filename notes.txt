@@ -1,0 +1,19 @@
+Extremely important tips so far:
+    1. Please please write every problem out
+        Look at num. 20 :P
+    2. Ask the interviewer more questions
+    3. Think about the different styles of programs
+        List them here
+    4. Make sure to always add helper functions where it is needed
+
+
+Technical Notes:
+    1. An in-order traversal of a BST (binary search tree, which is sorted) gives the nodes in sorted order
+    2. If given any problem where we must find something, it is important to ask if we can assume it is actually located there
+
+Time Complexity Notes:
+    1. When looking at the time complexity, just because it is a loop does not
+    mean that is is O(N)
+      Look at number 51, it loops through all of the cards, but is is always =
+      to 52 cards, so it is actually O(1) time AND space complexity
+    
